@@ -5,7 +5,7 @@
  * 
  * The usage examples of the common array functions.
  * 
- * Usage: php arrays/array.php
+ * Run: php arrays/array.php
  * 
  * PHP version 8.0 and above.
  * 
