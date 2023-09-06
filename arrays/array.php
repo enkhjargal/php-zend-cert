@@ -1,9 +1,9 @@
 <?php
 /**
- * The usage examples of the common array functions.
- * 
  * This PHP project is designed for preparation and practice in pursuit of Zend PHP certification learning. 
  * It is an open and freely available resource for use and sharing by others.
+ * 
+ * The usage examples of the common array functions.
  * 
  * Usage: php arrays/array.php
  * 
